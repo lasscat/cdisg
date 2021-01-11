@@ -1,2 +1,2 @@
 # cdisg
-Custom Discord Games
+Custom Discord Games while using no ram or disk space WIP
